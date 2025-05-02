@@ -1,6 +1,14 @@
 /.vs/
+
 eTaxInvoicePdfGenerator/bin/
 /eTaxInvoicePdfGenerator.csproj.user
 eTaxInvoicePdfGenerator/obj/
 eTaxInvoicePdfGenerator/publish/
+
+eTaxWeb/bin/
+eTaxWeb/bin/roslyn/
+/eTaxWeb.csproj.user
+eTaxWeb/obj/
+eTaxWeb/publish/
+
 packages/
