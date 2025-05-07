@@ -1202,7 +1202,6 @@
                                                             <Value>จำนวนเงิน (ไม่รวม VAT )</Value>
                                                             <Style>
                                                               <FontFamily>TH SarabunPSK</FontFamily>
-                                                              <FontSize>14pt</FontSize>
                                                             </Style>
                                                           </TextRun>
                                                         </TextRuns>
