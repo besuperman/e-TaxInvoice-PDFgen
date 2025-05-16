@@ -12,3 +12,5 @@ eTaxWeb/obj/
 eTaxWeb/publish/
 
 packages/
+/eTaxWeb/Web.ConnectionStrings.config
+/eTaxWeb/eTaxWeb.csproj
