@@ -14,3 +14,4 @@ eTaxWeb/publish/
 packages/
 /eTaxWeb/Web.ConnectionStrings.config
 /eTaxWeb/eTaxWeb.csproj
+/eTaxWeb/.vs/eTaxWeb.csproj.dtbcache.json
